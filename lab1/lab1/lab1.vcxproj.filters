@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Исходные файлы\seminar3">
+      <UniqueIdentifier>{42ecd594-6e49-44e5-bd86-d69170641f77}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\seminar4">
+      <UniqueIdentifier>{61c8407e-a62d-462c-bd2b-c0735c5a6180}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\seminar5">
+      <UniqueIdentifier>{abd801a5-89b9-492d-9ae8-63dc0e8e2fd5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="menu.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="text.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="menu_seminar3.cpp">
+      <Filter>Исходные файлы\seminar3</Filter>
+    </ClCompile>
+    <ClCompile Include="data_enter.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="array_output.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="main_seminar3.cpp">
+      <Filter>Исходные файлы\seminar3</Filter>
+    </ClCompile>
+    <ClCompile Include="lastelement.cpp">
+      <Filter>Исходные файлы\seminar3</Filter>
+    </ClCompile>
+    <ClCompile Include="summa.cpp">
+      <Filter>Исходные файлы\seminar3</Filter>
+    </ClCompile>
+    <ClCompile Include="menu_seminar4.cpp">
+      <Filter>Исходные файлы\seminar4</Filter>
+    </ClCompile>
+    <ClCompile Include="main_seminar4.cpp">
+      <Filter>Исходные файлы\seminar4</Filter>
+    </ClCompile>
+    <ClCompile Include="sum.cpp">
+      <Filter>Исходные файлы\seminar4</Filter>
+    </ClCompile>
+    <ClCompile Include="summa4.cpp">
+      <Filter>Исходные файлы\seminar4</Filter>
+    </ClCompile>
+    <ClCompile Include="sum_diagonals.cpp">
+      <Filter>Исходные файлы\seminar4</Filter>
+    </ClCompile>
+    <ClCompile Include="min_sum_diagonals.cpp">
+      <Filter>Исходные файлы\seminar4</Filter>
+    </ClCompile>
+    <ClCompile Include="max.cpp">
+      <Filter>Исходные файлы\seminar3</Filter>
+    </ClCompile>
+    <ClCompile Include="s3sort.cpp">
+      <Filter>Исходные файлы\seminar3</Filter>
+    </ClCompile>
+    <ClCompile Include="menu_seminar5.cpp">
+      <Filter>Исходные файлы\seminar5</Filter>
+    </ClCompile>
+    <ClCompile Include="main_seminar5.cpp">
+      <Filter>Исходные файлы\seminar5</Filter>
+    </ClCompile>
+    <ClCompile Include="check_spaces.cpp">
+      <Filter>Исходные файлы\seminar5</Filter>
+    </ClCompile>
+    <ClCompile Include="check_word.cpp">
+      <Filter>Исходные файлы\seminar5</Filter>
+    </ClCompile>
+    <ClCompile Include="logic.cpp">
+      <Filter>Исходные файлы\seminar5</Filter>
+    </ClCompile>
+    <ClCompile Include="additional_task.cpp">
+      <Filter>Исходные файлы\seminar3</Filter>
+    </ClCompile>
+    <ClCompile Include="summa_dop.cpp">
+      <Filter>Исходные файлы\seminar4</Filter>
+    </ClCompile>
+    <ClCompile Include="check_length.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="summa_conclusion.cpp">
+      <Filter>Исходные файлы\seminar3</Filter>
+    </ClCompile>
+    <ClCompile Include="s3max_conclusion.cpp">
+      <Filter>Исходные файлы\seminar3</Filter>
+    </ClCompile>
+    <ClCompile Include="sort_conclusion.cpp">
+      <Filter>Исходные файлы\seminar3</Filter>
+    </ClCompile>
+    <ClCompile Include="dop_condition.cpp">
+      <Filter>Исходные файлы\seminar4</Filter>
+    </ClCompile>
+    <ClCompile Include="check_a.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="max_addition.cpp">
+      <Filter>Исходные файлы\seminar3</Filter>
+    </ClCompile>
+    <ClCompile Include="min_sum_diagonals_dop.cpp">
+      <Filter>Исходные файлы\seminar4</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="include.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="prototype.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
